@@ -9,6 +9,6 @@ Fique à vontade para copiar caso queira.
 
 
 ```python
-print('Hello world!')
+print('Hello, world!')
 ```
 
